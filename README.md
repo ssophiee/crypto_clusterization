@@ -1,9 +1,9 @@
 ## Crypto_Clusterization
 
 
-## Info 
+## Information 
 
-| Name | Info | 
+| Name | Information | 
 |----------------|----------------|
 | crypto_clusterization.ipynb | Notebook (formating .ipynb) with a detailed description of the project |
 | requirements.txt | Libraries |
