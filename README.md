@@ -13,6 +13,10 @@
 
 ## Description
 
+Candlestick visualization examples:
+
+![newplot (1)](https://user-images.githubusercontent.com/75318962/182829170-a8dc05fb-5500-4d73-8c89-eb1ec1557ef1.png)
+![newplot](https://user-images.githubusercontent.com/75318962/182829185-c771562e-da0e-4271-a493-3b1c409b8906.png)
 
 
 ###                                                                   Dependencies
