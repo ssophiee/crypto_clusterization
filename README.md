@@ -6,7 +6,7 @@
 | Name | Information | 
 |----------------|----------------|
 | crypto_clusterization.ipynb | Notebook (formating .ipynb) with a detailed description of the project |
-| stocks_data.html | Data with Top Cryptos by Market Cap (by 09/07/2022)[1] |
+| stocks_data.html | Data with Top Cryptos by Market Cap (by 09/07/2022) [1] |
 | stocks.py | Functions |
 | requirements.txt | Libraries |
 
